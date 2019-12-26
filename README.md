@@ -108,7 +108,7 @@ Think of flash as a session that only lasts for one request.
 
 First, clone the starter code
 
-    $ git clone https://git.generalassemb.ly/ga-wdi-exercises/express-passport-local-authentication/
+    $ git clone https://github.com/Combatd/intro-to-passportjs.git
 
 `cd` into the cloned folder, and run `npm install` to ensure that we have all of the correct dependencies.
 
